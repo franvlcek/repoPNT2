@@ -1,2 +1,4 @@
 cree un archivo de texto perri 
 AGREGO TEXTO VIA GIT
+
+TRABAJO ENN DEV1 Y copioesto 
